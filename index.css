@@ -1,0 +1,28 @@
+.all{
+    background-color: rgb(29, 204, 96)
+}
+.cart-style{
+    background-color: white;
+    width: 850px;
+    height: 450px;
+    
+    margin-left:200px ;
+    margin-top: 250px;
+    margin-top: 100px;
+    
+}
+
+
+.first-text{
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+}
+.controle{
+    display: flex;
+    justify-content: space-between;
+}
+.produit {
+    display: flex;
+    flex-direction: column;
+}
